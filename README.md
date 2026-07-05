@@ -236,4 +236,4 @@ dataset_v1.0/
 ---
 
 ### t-SNE ВИЗУАЛИЗАЦИЯ
-<img src="" width="500" />
+<img src="./Search_Navigator_Nesterova_Violetta/tsne_clusters.png" width="500" />
